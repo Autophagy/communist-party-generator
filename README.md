@@ -1,1 +1,3 @@
-Communist Party Generator
+# Communist Party Generator
+
+Thinking of splitting? Need a new banner for the writhing mass of the working class to rally behind? As revolutionary statisticians, we are certain not every permutation has been attempted. So, [try your luck]()...
