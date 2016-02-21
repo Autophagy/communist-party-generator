@@ -1,0 +1,44 @@
+body {
+	background-image: url('../img/bg.jpg');
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-align: center;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#party-hq {
+  margin-top: 50px;
+  background-color: rgba(255, 255, 255, 0.81);
+  color: #A50000;
+  border: 1px solid #777;
+  border-radius: 5px 5px 0 0;
+  width: 100%;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#party-hq #party {
+  min-height: 700px;
+  min-height: 230px;
+  padding: 10px;
+  font-size: 4em;
+  color: #292f33;
+  text-shadow: -1px 0 rgba(109, 109, 109, 0.6), 0 1px rgba(109, 109, 109, 0.6), 1px 0 rgba(109, 109, 109, 0.6), 0 -1px rgba(109, 109, 109, 0.6);
+}
+
+#party-hq img {
+  opacity: 0.8;
+  margin-bottom: 10px;
+}
+
+#party-hq img:hover {
+  opacity: 1;
+}
+
+#homelink {
+	margin-top: 0.67em;
+	margin-left: auto;
+	margin-right: auto;
+}
