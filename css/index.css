@@ -31,6 +31,7 @@ body {
 #party-hq img {
   opacity: 0.8;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 #party-hq img:hover {
